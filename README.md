@@ -7,3 +7,8 @@
 
 
 
+## Desenvolvido em:
+
+- HTML
+- CSS
+- JavaScript
